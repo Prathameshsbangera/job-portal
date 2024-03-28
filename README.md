@@ -1,4 +1,5 @@
 # job-portal
+#Steps to Follow
 First, you need to have MySQL installed on your system. If it's not installed, you can download and install it from the official MySQL website.
 Once MySQL is installed, you'll need to start the MySQL server. This is usually done by running a command like mysql.server start in your terminal or using services in your operating system.
 Now, you'll need to create a MySQL database. You can do this using a tool like phpMyAdmin or by running SQL commands directly in the MySQL command-line interface (CLI). For example:CREATE DATABASE your_database_name; 
